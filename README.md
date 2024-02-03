@@ -6,4 +6,4 @@ runme:
 
 # bookdot
 
-It is just a small project
+It is just a project
